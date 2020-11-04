@@ -12,12 +12,11 @@ div#header-center {
     width: 1080px;
 }
 
-div#header-search > h1 {
-    width: 440px;
-    height: 110px;
+div#header-search  h1 {
+    width: 415px;
+    height: 160px;
     display: inline-block;
-    background-image: url(./images/sp_main_1f05c0.png);
-    background-position: left -312px;
+    background-image: url(./images/훈맹정음_NM_모션_2X.gif);
 }
 
 
