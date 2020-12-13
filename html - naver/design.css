@@ -1,0 +1,11 @@
+header {
+    height: 160px;
+}
+header #banner #image a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 95px;
+    width: 243px;
+    height: 160px;
+}
